@@ -1,4 +1,5 @@
 // Booking.jsx
+import { FaWhatsapp } from "react-icons/fa";
 export default function Booking() {
     return (
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-emerald-100" id="bookings">
@@ -29,7 +30,26 @@ export default function Booking() {
           </button>
         </form>
         <div className="text-center mt-6 text-gray-700">
-          <pre><a href="tel:+251704008874">📞 Call Center: +251704008874  </a> | WhatsApp: +251704008874</pre>
+        
+
+<div className="flex flex-col sm:flex-row justify-center items-center gap-2">
+  <a href="tel:+251972201169" className="whitespace-nowrap">
+    📞 Call Center: +251972201169
+  </a>
+  <a href="tel:+251939317774" className="whitespace-nowrap">
+    📞 Call Center: +251939317774
+  </a>
+  <span className="hidden sm:inline">|</span> {/* Separator, hidden on small screens */}
+  <a href="https://wa.me/2510972201169" className="whitespace-nowrap flex items-center gap-1">
+    <FaWhatsapp />
+    WhatsApp: +251972201169
+  </a>
+  <a href="https://wa.me/251939317774" className="whitespace-nowrap flex items-center gap-1">
+    <FaWhatsapp />
+    WhatsApp: +251939317774
+  </a>
+</div>
+
         </div>
       </section>
     );
