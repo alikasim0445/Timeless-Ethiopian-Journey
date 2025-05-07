@@ -50,7 +50,7 @@ export default function Booking() {
   </a>
 </div>
 
-        </div>
+</div>
       </section>
     );
   }
