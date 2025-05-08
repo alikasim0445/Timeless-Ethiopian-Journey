@@ -6,7 +6,7 @@ export default function About() {
         <div className="space-y-8">
           {/* Mission Statement Card */}
           <div className="bg-white shadow-lg rounded-xl p-6 max-w-3xl mx-auto transition-transform transform hover:scale-105">
-            <h4 className="text-2xl font-semibold text-emerald-700 mb-4">Mission Statement</h4>
+            <h4 className="text-2xl font-semibold text-emerald-700 mb-4">Mission </h4>
             <p className="text-lg text-gray-700 leading-relaxed">
               To enrich the travel experience in Ethiopia by leveraging cutting-edge AR and VR technologies, allowing tourists to explore and engage with the country's diverse landscapes and cultural treasures from anywhere in the world.
             </p>
@@ -14,7 +14,7 @@ export default function About() {
   
           {/* Vision Statement Card */}
           <div className="bg-white shadow-lg rounded-xl p-6 max-w-3xl mx-auto transition-transform transform hover:scale-105">
-            <h4 className="text-2xl font-semibold text-emerald-700 mb-4">Vision Statement</h4>
+            <h4 className="text-2xl font-semibold text-emerald-700 mb-4">Vision </h4>
             <p className="text-lg text-gray-700 leading-relaxed">
               To be the leading tourism platform in Ethiopia that transforms how people discover and appreciate the country's heritage and natural beauty, creating unforgettable virtual and augmented experiences.
             </p>
