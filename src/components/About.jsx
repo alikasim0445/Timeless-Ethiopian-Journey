@@ -25,47 +25,47 @@ export default function About() {
           <h4 className="text-2xl font-semibold text-emerald-700 mb-4">Core Values</h4>
           <ul class="list-disc text-left space-y-4 ml-10">
   <li>
-    <strong class="font-semibold text-gray-800">Innovation:</strong>
-    <span class="text-gray-700">Embrace technology to enhance the tourism experience.</span>
+    <strong className="font-semibold text-gray-800">Innovation:</strong>
+    <span className="text-gray-700">Embrace technology to enhance the tourism experience.</span>
   </li>
   <li>
-    <strong class="font-semibold text-gray-800">Cultural Preservation:</strong>
-    <span class="text-gray-700">Promote and protect Ethiopia’s rich history and traditions.</span>
+    <strong className="font-semibold text-gray-800">Cultural Preservation:</strong>
+    <span className="text-gray-700">Promote and protect Ethiopia’s rich history and traditions.</span>
   </li>
   <li>
-    <strong class="font-semibold text-gray-800">Sustainability:</strong>
-    <span class="text-gray-700">Encourage eco-friendly tourism practices that benefit local communities.</span>
+    <strong className="font-semibold text-gray-800">Sustainability:</strong>
+    <span className="text-gray-700">Encourage eco-friendly tourism practices that benefit local communities.</span>
   </li>
   <li>
-    <strong class="font-semibold text-gray-800">Accessibility:</strong>
-    <span class="text-gray-700">Make Ethiopia's treasures available to everyone, regardless of location.</span>
+    <strong className="font-semibold text-gray-800">Accessibility:</strong>
+    <span className="text-gray-700">Make Ethiopia's treasures available to everyone, regardless of location.</span>
   </li>
 </ul>
         </div>
 
 {/* Goals Card */}
 <div className="bg-white shadow-lg rounded-xl p-6 max-w-3xl mx-auto transition-transform transform hover:scale-105 text-center">
-  <h4 class="text-2xl font-semibold text-emerald-700 mb-4 ">Goals</h4>
-  <ul class="list-disc space-y-4 inline-block text-left ml-10">
+  <h4 className="text-2xl font-semibold text-emerald-700 mb-4 ">Goals</h4>
+  <ul className="list-disc space-y-4 inline-block text-left ml-10">
     <li className="mx-auto">
-      <strong class="font-semibold text-gray-800">Develop AR/VR Experiences:</strong>
-      <span class="text-gray-700">Create engaging virtual tours and augmented reality applications that highlight Ethiopia's key attractions.</span>
+      <strong className="font-semibold text-gray-800">Develop AR/VR Experiences:</strong>
+      <span className="text-gray-700">Create engaging virtual tours and augmented reality applications that highlight Ethiopia's key attractions.</span>
     </li>
     <li>
-      <strong class="font-semibold text-gray-800">Collaborate with Local Communities:</strong>
-      <span class="text-gray-700">Partner with local guides, historians, and artisans to provide authentic content and support local economies.</span>
+      <strong className="font-semibold text-gray-800">Collaborate with Local Communities:</strong>
+      <span className="text-gray-700">Partner with local guides, historians, and artisans to provide authentic content and support local economies.</span>
     </li>
     <li>
-      <strong class="font-semibold text-gray-800">Increase Awareness:</strong>
-      <span class="text-gray-700">Promote Ethiopia as a top travel destination through innovative marketing strategies and partnerships.</span>
+      <strong className="font-semibold text-gray-800">Increase Awareness:</strong>
+      <span className="text-gray-700">Promote Ethiopia as a top travel destination through innovative marketing strategies and partnerships.</span>
     </li>
     <li>
-      <strong class="font-semibold text-gray-800">Enhance Education:</strong>
-      <span class="text-gray-700">Provide educational resources for schools and institutions to learn about Ethiopian history and culture through immersive experiences.</span>
+      <strong className="font-semibold text-gray-800">Enhance Education:</strong>
+      <span className="text-gray-700">Provide educational resources for schools and institutions to learn about Ethiopian history and culture through immersive experiences.</span>
     </li>
     <li>
-      <strong class="font-semibold text-gray-800">Build a Strong Online Presence:</strong>
-      <span class="text-gray-700">Establish a user-friendly platform for tourists to access and book AR/VR experiences.</span>
+      <strong className="font-semibold text-gray-800">Build a Strong Online Presence:</strong>
+      <span className="text-gray-700">Establish a user-friendly platform for tourists to access and book AR/VR experiences.</span>
     </li>
   </ul>
 </div>

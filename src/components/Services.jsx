@@ -66,7 +66,7 @@ export default function Services() {
         <div className="mt-4 text-sm text-gray-600">
           <p className="font-medium">Video Transcript:</p>
           <p className="italic">"Explore Ethiopia's rich heritage through our innovative AR/VR experiences that bring history to life."</p>
-          <p className="mt-2">Duration: 2:15 | CC Available</p>
+          <p className="mt-2">Duration: 2:15 </p>
         </div>
       </div>
     </section>
