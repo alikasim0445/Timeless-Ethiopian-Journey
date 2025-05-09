@@ -51,7 +51,7 @@ export default function Navbar() {
                   isScrolled ? "text-xl" : "text-2xl"
                 }`}
               >
-                Timeless Ethiopia Journey
+                Timeless Ethiopian Journey
               </h1>
             )}
           </div>

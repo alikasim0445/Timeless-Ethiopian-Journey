@@ -6,7 +6,13 @@ import img4 from '../assets/Sof Omar Cave - Ethiopia.jpeg';
 import img5 from '../assets/the liberty monument is so far the only thing….jpeg';
 import img6 from '../assets/najashi.jpeg';
 import img7 from '../assets/shake husen.jpeg';
-import v from '../assets/v.mp4';
+import video7 from '../assets/shake husen.mp4';
+import video1 from '../assets/abba jifar.mp4';
+import video2 from '../assets/facil.mp4';
+import video3 from '../assets/lalibala.mp4';
+import video4 from '../assets/sof omer.mp4';
+import video5 from '../assets/aksum.mp4';
+import video6 from '../assets/najjashi.mp4';
 
 const galleryItems = [
   { 
@@ -14,7 +20,7 @@ const galleryItems = [
     title: "King Abba Jifar Palace", 
     desc: "A historical legacy of Jimma's royal heritage.",
     location: "Jimma",
-    videoLink: v,
+    videoLink: video1,
     coordinates: { lat: 7.6667, lng: 36.8333 }
   },
   { 
@@ -22,7 +28,7 @@ const galleryItems = [
     title: "Gondar Castle", 
     desc: "Also called the Camelot of Africa, rich in imperial history.",
     location: "Gondar",
-    videoLink: v,
+    videoLink: video2,
     coordinates: { lat: 12.6000, lng: 37.4667 }
   },
   { 
@@ -30,7 +36,7 @@ const galleryItems = [
     title: "Lalibela Churches", 
     desc: "Monolithic rock-hewn churches, a UNESCO World Heritage Site.",
     location: "Lalibela",
-    videoLink: v,
+    videoLink: video3,
     coordinates: { lat: 12.0317, lng: 39.0417 }
   },
   { 
@@ -38,7 +44,7 @@ const galleryItems = [
     title: "Sof Omar Cave", 
     desc: "One of the longest cave systems in Africa.",
     location: "Bale",
-    videoLink: v,
+    videoLink: video4,
     coordinates: { lat: 6.9000, lng: 40.8000 }
   },
   { 
@@ -46,7 +52,7 @@ const galleryItems = [
     title: "The Liberty Monument", 
     desc: "A symbol of Ethiopian freedom and pride.",
     location: "Aksum",
-    videoLink: v,
+    videoLink: video5,
     coordinates: { lat: 9.0300, lng: 38.7400 }
   },
   { 
@@ -54,7 +60,7 @@ const galleryItems = [
     title: "Negash Mosque", 
     desc: "One of the oldest Islamic sites in Africa.",
     location: "Tigray",
-    videoLink: v,
+    videoLink: video6,
     coordinates: { lat: 13.8833, lng: 39.6000 }
   },
   { 
@@ -62,7 +68,7 @@ const galleryItems = [
     title: "Sheikh Hussein Shrine", 
     desc: "A sacred pilgrimage site in southeastern Ethiopia.",
     location: "Oromia",
-    videoLink: v,
+    videoLink: video7,
     coordinates: { lat: 7.7500, lng: 40.7000 }
   }
 ]
